@@ -1,0 +1,14 @@
+{
+    "_embedded":{
+        "suggestions":[{
+            "display":{"subtext":"Region","text":"Sydney CBD, NSW"},"id":"6102b706-7216-4cde-b780-45cba0514ac5","source":{"atlasId":"6102b706-7216-4cde-b780-45cba0514ac5","name":"Sydney CBD","state":"NSW"},"type":"region"},{
+            "display":{"subtext":"Suburb","text":"Sydney, NSW 2000"},"id":"99b291a3-bfcf-4bf9-bbaa-bdb9d89abc24-2000","source":{"atlasId":"99b291a3-bfcf-4bf9-bbaa-bdb9d89abc24","name":"Sydney","postcode":"2000","state":"NSW"},"type":"suburb"},{
+            "display":{"subtext":"Suburb","text":"Sydney Olympic Park, NSW 2127"},"id":"19174a2e-3f53-4be4-8477-443d47249f20-2127","source":{"atlasId":"19174a2e-3f53-4be4-8477-443d47249f20","name":"Sydney Olympic Park","postcode":"2127","state":"NSW"},"type":"suburb"},{
+            "display":{"subtext":"Region","text":"Western Sydney, NSW"},"id":"637c2a12-9141-4e1d-adfa-30bd200a49a4","source":{"atlasId":"637c2a12-9141-4e1d-adfa-30bd200a49a4","name":"Western Sydney","state":"NSW"},"type":"region"},{
+            "display":{"subtext":"Region","text":"South Western Sydney, NSW"},"id":"0eadb86e-6345-43b6-ab6d-18e17c779817","source":{"atlasId":"0eadb86e-6345-43b6-ab6d-18e17c779817","name":"South Western Sydney","state":"NSW"},"type":"region"},{
+            "display":{"subtext":"Suburb","text":"North Sydney, NSW 2060"},"id":"6d60efeb-2c94-47d5-be59-3d04a30fc128-2060","source":{"atlasId":"6d60efeb-2c94-47d5-be59-3d04a30fc128","name":"North Sydney","postcode":"2060","state":"NSW"},"type":"suburb"},{
+            "display":{"subtext":"For sale","text":"43 Sydney Avenue, Callala Bay, NSW 2540"},"id":"143461820","source":{"channel":"buy","image":"https://i2.au.reastatic.net/{size}/bec02f22e311ad44aa4b75b296c3acaa9f159c93278b3cd87edcfb779758ef63/image.jpg","url":"https://www.realestate.com.au/143461820"},"type":"listing"},{
+            "display":{"subtext":"For sale","text":"10 Sydney Avenue, Camp Hill, Qld 4152"},"id":"143946492","source":{"channel":"buy","image":"https://i2.au.reastatic.net/{size}/e6ee72984bc4e28df5bd77b6d274ba9db92d12fd466a2e61106bc65368cf29c7/image.jpg","url":"https://www.realestate.com.au/143946492"},"type":"listing"},{
+            "display":{"subtext":"For sale","text":"14 SYDNEY AVENUE, Geelong, Vic 3220"},"id":"143791012","source":{"channel":"buy","image":"https://i2.au.reastatic.net/{size}/f47cfa2b1af7183c72fcda766f3e983aec2ad9c3edd6644c6f6e5de66799963d/image.jpg","url":"https://www.realestate.com.au/143791012"},"type":"listing"},{
+            "display":{"subtext":"For sale","text":"62a Sydney Avenue, Umina Beach, NSW 2257"},"id":"143440696","source":{"channel":"buy","image":"https://i2.au.reastatic.net/{size}/703a13bb2c1aafd894d181fcea670fa66e441f6188411ff82c4ebc6080fc0c7b/image.jpg","url":"https://www.realestate.com.au/143440696"},"type":"listing"}]},"count":"10"}
+
