@@ -16,10 +16,9 @@ export default function SearchBar() {
       e.preventDefault();
       if(!query) return;
       
-      const url = 'https://realty-in-au.p.rapidapi.com/auto-complete?query=sydney';
+      const url = `https://realty-in-au.p.rapidapi.com/auto-complete?query=${query}`;
       getResult(url)
 
-      // navigate(`/query/${query}`);
       setQuery("");
     }
 
